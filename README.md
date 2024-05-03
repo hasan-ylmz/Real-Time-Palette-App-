@@ -2,6 +2,11 @@
 
 This project contains a real-time React application developed as part of the Patika.dev course. The application operates on a Node.js backend and interactively displays server logs in real-time on the React frontend.
 
+## Example Screenshots
+
+![Real Time - Palette App ](./client/screenshots/Real_time_animation.gif)
+
+
 ## Features
 
 - **Real-Time Updates**: The application communicates via the WebSocket protocol to receive real-time server logs and displays them in the user interface.
@@ -34,9 +39,6 @@ This project contains a real-time React application developed as part of the Pat
 4. Navigate to `http://localhost:5173` in your browser to view the application.
     Check for port availability and running status for the server !!
 
-## Example Screenshots
-
-![Real Time - Palette App ](./client/screenshots/Real_time_animation.gif)
 
 ## Contributing
 
