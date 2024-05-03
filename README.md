@@ -36,7 +36,7 @@ This project contains a real-time React application developed as part of the Pat
 
 ## Example Screenshots
 
-![Real Time - Palette App ](screenshots/Real_time_animation.gif)
+![Real Time - Palette App ](./client/screenshots/Real_time_animation.gif)
 
 ## Contributing
 
